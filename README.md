@@ -1,6 +1,7 @@
 # Spotify Music Dashboard
 
-[![Project](https://img.shields.io/badge/Project-Spotify%20Music%20Dashboard-blue)](https://www.novypro.com/project/spotify-music-analysis-dashboard-)
+[![Project](https://img.shields.io/badge/Project-Spotify%20Music%20Dashboard-blue?style=for-the-badge)](https://www.novypro.com/project/spotify-music-analysis-dashboard-)
+
 
 ![Dashboard Screenshot](https://github.com/Danishakhtar2001/Spotify-Music-Dashboard/assets/156657584/f7fcabb7-e2f4-4a99-83df-932876ad47b7)
 
